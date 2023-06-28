@@ -1,0 +1,59 @@
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.btn {
+    font-size: 15px;
+    font-family: Gilroy-Bold;
+    padding: 15px 36px;
+    border-radius: 50px;
+    border: 0;
+    background: none;
+    cursor: pointer;
+}
+.header {
+    padding: 40px 0 48px 0;
+}
+.logo__text {
+    color: #000;
+    font-size: 24px;
+    font-family: Gilroy-Bold;
+}
+.logo__text_orange {
+    color: #F25822;
+}
+.header__nav {
+    color: #000;
+    font-size: 14px;
+    font-family: Gilroy-SemiBold;
+}
+.nav-active {
+    color: #F25822;
+}
+.main-content__text {
+    background-image: url(img/main-bg.jpg);
+    background-repeat: no-repeat;
+    padding: 36px 0 80px 0;
+}
+.main-content__title {
+    color: #000;
+    font-size: 60px;
+    font-family: Gilroy-Bold;
+    max-width: 552px;
+}
+.main-content__parh {
+    color: #888;
+    font-size: 20px;
+    font-family: Gilroy-Medium;
+    max-width: 466px;
+}
+.bnt__orange {
+    background: #F25822;
+    color: #fff;
+}
+.bnt__white {
+    color: #AAA;
+}
+.partner-logo {
+
+}
